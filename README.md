@@ -1,5 +1,5 @@
 # Getting Started with this Repo
-Hi. This is Rebecca's interactive resume. She has deployed it to:
+Hi. This is Rebecca's interactive resume. She has deployed it to: https://rckrieger.github.io/resume/ 
 Most of the work for it was done in this repo- https://github.com/rckrieger/Rebecca-Live-Resume, but after she deleted the gh-pages branch to try to change the URL, it would not rebuild without errors. Reverting was failing too, so she took her last working commit and copied the files into a new repo
 
 ## How to run locally
