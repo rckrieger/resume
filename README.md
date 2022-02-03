@@ -1,5 +1,6 @@
 # Getting Started with this Repo
-Hi. This is Rebecca's interactive resume. She hesn't deployed it yet, but until then feel free to build it yourself.
+Hi. This is Rebecca's interactive resume. She has deployed it to:
+Most of the work for it was done in this repo- https://github.com/rckrieger/Rebecca-Live-Resume, but after she deleted the gh-pages branch to try to change the URL, it would not rebuild without errors. Reverting was failing too, so she took her last working commit and copied the files into a new repo
 
 ## How to run locally
 
@@ -10,5 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## NPM libraies Used
 mdb-react-ui-kit - used to add shadows to the cards within the contact pag <br/>
 react-svg-radar-chart - used to create the skill charts <br/>
-vertical-timeline-component-react - used on the work page to create a timeline
+vertical-timeline-component-react - used on the work page to create a timeline <br/>
+react-slick - used to form image carousels
 
